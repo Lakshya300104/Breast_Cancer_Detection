@@ -1,4 +1,4 @@
-**Breast Cancer Detection System** 🎯  
+# **Breast Cancer Detection System** 🎯  
 *Leveraging Machine Learning for Accurate Tumor Classification*
 
 ---
@@ -145,9 +145,6 @@ http://localhost:8501
 🔗 **Connect with Me**:  
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lakshya-arora-76a567259/)  
 - GitHub: [Your GitHub Profile](https://www.linkedin.com/in/lakshya-arora-76a567259/)
-
+  
 ---
 
-**#MachineLearning #HealthcareTech #BreastCancerAwareness #DataScience #Python #Streamlit #AIinHealthcare**
-
----
