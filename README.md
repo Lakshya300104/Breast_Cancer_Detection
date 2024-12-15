@@ -1,5 +1,4 @@
-
-# **Breast Cancer Detection System** 🎯  
+**Breast Cancer Detection System** 🎯  
 *Leveraging Machine Learning for Accurate Tumor Classification*
 
 ---
